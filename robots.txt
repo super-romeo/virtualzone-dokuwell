@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://virtualzone.dokuwell.com/sitemap.xml
+Sitemap: https://virtualzone.dokuline.com/sitemap.xml
